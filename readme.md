@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for Revolt</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -13,23 +13,35 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Open revolt and click on the settings button in the bottom left
+2. Under settings, navigate to Appearance
+3. Under THEME OVERRIDES click the Import button on the right
+4. Paste in the contents of either `rosepine.json`, `rosepinemoon.json`, or `rosepinedawn.json`
+5. Click OK
 
 ## Gallery
 
-![Rosé Pine with App](assets/template.png)
+#### Rosé Pine
+
+![Screenshot_2021-11-19-04-58-45_2560x1440](https://user-images.githubusercontent.com/44733677/142708530-81c9c4f8-2b01-4706-bbb4-8d60f3ab41dc.png)
+
+![Screenshot_2021-11-19-04-59-30_2560x1440](https://user-images.githubusercontent.com/44733677/142708549-ecb8107c-a1f1-4004-80ac-fabe19d1d9c8.png)
+
+#### Rosé Pine Moon
+
+![Screenshot_2021-11-19-05-01-56_2560x1440](https://user-images.githubusercontent.com/44733677/142708628-4a6cb1e7-e233-4039-acba-ed1764a32a02.png)
+
+![Screenshot_2021-11-19-05-02-17_2560x1440](https://user-images.githubusercontent.com/44733677/142708638-c4329633-c093-4bd7-8839-3a7093f06383.png)
+
+
+#### Rosé Pine Dawn
+
+![Screenshot_2021-11-19-05-01-09_2560x1440](https://user-images.githubusercontent.com/44733677/142708604-9fe4775f-b714-4430-99b9-0798bcec7729.png)
+
+![Screenshot_2021-11-19-05-01-32_2560x1440](https://user-images.githubusercontent.com/44733677/142708614-ea4636d5-dac6-42ed-a86e-b816fb27cd48.png)
+
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
+- [ThatOneCalculator](https://t1c.dev/)
 
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Format repo description as "Soho vibes for App"
-- Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
