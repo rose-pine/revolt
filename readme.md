@@ -13,11 +13,13 @@
 
 ## Usage
 
-1. Open revolt and click on the settings button in the bottom left
+1. Open Revolt and click on the settings button in the bottom left
 2. Under settings, navigate to Appearance
 3. Under THEME OVERRIDES click the Import button on the right
 4. Paste in the contents of either `rosepine.json`, `rosepinemoon.json`, or `rosepinedawn.json`
 5. Click OK
+
+### Want to see these in the Theme Shop? Bump [this PR!](https://github.com/revoltchat/themes/pull/20) 
 
 ## Gallery
 
