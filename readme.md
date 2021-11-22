@@ -27,6 +27,8 @@
 
 ![Screenshot_2021-11-19-04-59-30_2560x1440](https://user-images.githubusercontent.com/44733677/142708549-ecb8107c-a1f1-4004-80ac-fabe19d1d9c8.png)
 
+![Screenshot_2021-11-21-04-38-31_2560x1440](https://user-images.githubusercontent.com/44733677/142785763-42f01e55-cdea-42f5-a0f0-2ce914c371b9.png)
+
 #### Rosé Pine Moon
 
 ![Screenshot_2021-11-19-05-01-56_2560x1440](https://user-images.githubusercontent.com/44733677/142708628-4a6cb1e7-e233-4039-acba-ed1764a32a02.png)
