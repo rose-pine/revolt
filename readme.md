@@ -13,11 +13,9 @@
 
 ## Usage
 
-1. Open Revolt and click on the settings button in the bottom left
-2. Under settings, navigate to Experiments
-3. Toggle Theme Shop
-> In the future, you won't have to do steps 2 & 3.
-4. Navigate to Theme Shop, scroll to the bottom, and select either Rosé Pine, Rosé Pine Dawn, or Rosé Pine Moon!
+1. Open Revolt and click on Discover
+2. Navigate to Themes
+3. Navigate to The selction of Rosé Pine Themes and enable one of them.
 
 ![image](https://user-images.githubusercontent.com/44733677/142785820-4e243cf8-b60f-4b69-8d0b-acc62daf491a.png)
 
