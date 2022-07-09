@@ -17,9 +17,6 @@
 2. Navigate to Themes
 3. Navigate to The selction of Rosé Pine Themes and enable one of them.
 
-![image](https://user-images.githubusercontent.com/44733677/142785820-4e243cf8-b60f-4b69-8d0b-acc62daf491a.png)
-
-
 ## Gallery
 
 #### Rosé Pine
