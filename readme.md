@@ -15,7 +15,7 @@
 
 1. Open Revolt and click on Discover
 2. Navigate to Themes
-3. Navigate to The selction of Rosé Pine Themes and enable one of them.
+3. Select your desired Rosé Pine variant
 
 ## Gallery
 
